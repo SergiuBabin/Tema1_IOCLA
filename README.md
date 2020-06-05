@@ -1,4 +1,4 @@
-# Tema1_IOCLA
+# Tema1-IOCLA
 Introducere în organizarea calculatorului și limbaj de asamblare
 
     Tema1 IOCLA (Polish prefixat)
